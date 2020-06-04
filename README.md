@@ -1,5 +1,5 @@
 # Earthquake Visualization
-Visualizing the earthquakes occurred in the last 7 days using USGS GeoJSON data. 
+Visualizing the earthquakes occurred in the last 7 days using United States Geological Survey (USGS) GeoJSON data. 
 
 The data is pulled from USGS GeoJSON API to assemble a dataset to visualize the locations of earthquakes occurred in the last 7 days in the world map using Python, Javascript, Leaflet, HTML, CSS.
 
